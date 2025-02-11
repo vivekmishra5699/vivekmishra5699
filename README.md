@@ -34,7 +34,7 @@
 
 ---
 ### 🌱 **Training On Going**
-<p align="center">
+<p align="center", font-size: 50px>
   <img src="./motion.svg" width="200">
 </p>
 
