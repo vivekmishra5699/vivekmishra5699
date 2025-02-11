@@ -1,59 +1,73 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 80">
-  <!-- Background -->
-  <rect width="240" height="80" fill="#1a1b27"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200" style="background:#011627;">
+  <style>
+    @keyframes scroll { 100% { transform: translateY(-50%); } }
+    @keyframes pulse { 50% { opacity: 0.5; } }
+  </style>
+  <defs>
+    <filter id="neon">
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feColorMatrix in="blur" type="matrix"
+        values="1 0 0 0 0
+                0 1 0 0 0.4
+                0 0 1 0 0.2
+                0 0 0 1 0"/>
+    </filter>
+    
+    <g id="codeBlock">
+      <text x="10" y="20" font-size="12" fill="#7fdbca">def train_model(data):</text>
+      <text x="20" y="35" font-size="12" fill="#82aaff">    model = NeuralNetwork()</text>
+      <text x="20" y="50" font-size="12" fill="#ff6363">    optimizer = Adam()</text>
+      <text x="20" y="65" font-size="12" fill="#7fdbca">    for epoch in epochs:</text>
+      <text x="30" y="80" font-size="12" fill="#82aaff">        loss = forward_pass()</text>
+      <text x="30" y="95" font-size="12" fill="#ff6363">        backward_pass()</text>
+    </g>
+  </defs>
+
+  <!-- Animated Matrix Background -->
+  <g font-family="monospace" font-size="10" fill="#1a5c42" opacity="0.3">
+    <text x="10" y="10">0101010101</text>
+    <text x="300" y="30">11001011</text>
+    <text x="150" y="180">00110110</text>
+    <animateTransform attributeName="transform" type="rotate" values="0 200 100;0.5 200 100;-0.5 200 100;0 200 100" dur="20s" repeatCount="indefinite"/>
+  </g>
+
+  <!-- Live Code Window -->
+  <rect x="40" y="30" width="320" height="140" fill="#011627" stroke="#7fdbca" stroke-width="1" rx="3"/>
   
-  <!-- Orbiting circles -->
-  <circle cx="40" cy="40" r="3" fill="#61dafb">
-    <animateTransform
-      attributeName="transform"
-      type="rotate"
-      from="0 40 40"
-      to="360 40 40"
-      dur="3s"
-      repeatCount="indefinite"
-    />
-  </circle>
-  
-  <circle cx="40" cy="40" r="3" fill="#ff6b6b">
-    <animateTransform
-      attributeName="transform"
-      type="rotate"
-      from="120 40 40"
-      to="480 40 40"
-      dur="3s"
-      repeatCount="indefinite"
-    />
-  </circle>
-  
-  <circle cx="40" cy="40" r="3" fill="#4fd1c5">
-    <animateTransform
-      attributeName="transform"
-      type="rotate"
-      from="240 40 40"
-      to="600 40 40"
-      dur="3s"
-      repeatCount="indefinite"
-    />
-  </circle>
-  
-  <!-- Central circle -->
-  <circle cx="40" cy="40" r="4" fill="#fff">
-    <animate
-      attributeName="r"
-      values="4;5;4"
-      dur="2s"
-      repeatCount="indefinite"
-    />
-  </circle>
-  
-  <!-- Text -->
-  <text x="90" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="16">
-    Welcome to my profile!
-    <animate
-      attributeName="opacity"
-      values="0.6;1;0.6"
-      dur="3s"
-      repeatCount="indefinite"
-    />
-  </text>
+  <!-- Animated Code -->
+  <g transform="translate(50,40)" font-family="Fira Code, monospace">
+    <use href="#codeBlock"/>
+    <use href="#codeBlock" transform="translate(0 100)"/>
+    <animateTransform attributeName="transform" type="translate" additive="sum"
+      from="0 0" to="0 -100" dur="8s" repeatCount="indefinite"/>
+  </g>
+
+  <!-- Tech Elements -->
+  <g fill="none" stroke-width="1.5">
+    <!-- Neural Network Node -->
+    <circle cx="340" cy="50" r="8" stroke="#ff6363">
+      <animate attributeName="r" values="8;10;8" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <path d="M340 50l40-20" stroke="#82aaff" stroke-dasharray="4">
+      <animate attributeName="stroke-dashoffset" values="0;8" dur="1s" repeatCount="indefinite"/>
+    </path>
+
+    <!-- Data Flow -->
+    <path d="M50 160 q50-30 100 0" stroke="#7fdbca" opacity="0.8">
+      <animate attributeName="d" values="M50 160 q50-30 100 0; M50 160 q50-40 100 0; M50 160 q50-20 100 0" dur="3s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <!-- Live Stats -->
+  <g font-family="monospace" font-size="10" fill="#82aaff" text-anchor="end">
+    <text x="380" y="20">CPU: 98%</text>
+    <text x="380" y="35">RAM: 64GB</text>
+    <text x="380" y="50">GPU: NVIDIA A100</text>
+    <animate attributeName="fill" values="#82aaff;#7fdbca;#82aaff" dur="3s" repeatCount="indefinite"/>
+  </g>
+
+  <!-- Pulsing Cursor -->
+  <rect x="365" y="175" width="2" height="15" fill="#ff6363">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
 </svg>
