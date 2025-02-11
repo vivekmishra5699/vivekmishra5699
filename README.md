@@ -33,7 +33,7 @@
 - 🎮 Making **VR & interactive simulations**
 
 ---
-
+### 🌱 **Training On Going**
 <p align="center">
   <img src="./motion.svg" width="200">
 </p>
