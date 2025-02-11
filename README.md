@@ -47,6 +47,6 @@
 ### 🌀 Perpetual Motion Machine Animation
 
 <p align="center">
-  <img src="./perpetual-motion.svg" width="200">
+  <img src="./motion.svg" width="200">
 </p>
 
