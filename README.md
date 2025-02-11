@@ -24,7 +24,6 @@
 
 ### 📊 **GitHub Stats**
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=vivekmishra5699&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vivekmishra5699&theme=dark)
 
 ---
 
