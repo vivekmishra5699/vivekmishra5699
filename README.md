@@ -40,4 +40,4 @@
 
 ### 🌱 **Let's Connect!**
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vivek29403@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/vivek-mishra-03176932a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B4RgC%2BhjWRfy5LkmxK8eDUA%3D%3D))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivek-mishra-03176932a)
