@@ -2,8 +2,8 @@
 
 🎓 Computer Science Student | 💡 Tech Enthusiast | 🚀 Open Source Contributor
 
-🔭 I’m currently working on **[Your Project Name](ProjectLink)**  
-🌱 I’m currently learning **[Your Learning Focus]**  
+🔭 I’m currently working on **AI_HealthCare**  
+🌱 I’m currently learning **AI,Flask**  
 📫 How to reach me: **vivek29403@gmail.com**  
 
 
