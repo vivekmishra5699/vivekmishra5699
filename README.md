@@ -1,28 +1,97 @@
-# Hi there, I'm [Your Name] 👋
+### Hi there, I'm [Your Name] 👋
 
-🎓 Computer Science Student | 💡 Tech Enthusiast | 🚀 Open Source Contributor
+🚀 **Computer Science Enthusiast | Full-Stack Developer | AI & 3D Graphics Explorer**
 
-🔭 I’m currently working on **AI_HealthCare**  
-🌱 I’m currently learning **AI,Flask**  
-📫 How to reach me: **vivek29403@gmail.com**  
+💡 Passionate about building **interactive 3D experiences**, AI-powered applications, and exploring **cryptography & cybersecurity**. Whether it's creating a **solar system simulation**, designing **procedural terrains**, or training an **AI chess engine**, I love pushing the limits of technology.
+
+---
+
+### 🚀 **What I'm Working On**
+- 🌍 **[3D Solar System Simulation](https://github.com/vivekmishra5699/solar-system)** (Three.js)
+- 🤖 **[AI Chess Model](https://github.com/vivekmishra5699/ai-chess)** (Deep Learning)
+- 🏎️ **[Driving Simulation](https://github.com/vivekmishra5699/driving-sim)** (Three.js & WebVR)
 
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=vivekmishra5699&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vivekmishra5699&theme=dark)
+### 🛠 **Tech Stack & Tools**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Three.js](https://img.shields.io/badge/-Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+🛠 I code using **Visual Studio Code** on **Windows 10 & macOS**.
+
+---
+
+### 📊 **GitHub Stats**
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark)
+
+---
+
+### 🎮 **Fun Projects & Interests**
+- 🏗 Building **3D architectural visualization** websites
+- 🔍 Exploring **time machine search engines**
+- 🍽 Creating an **AI-powered nutrition tracker**
+- 🎮 Making **VR & interactive simulations**
+
+---
 
 
 
-<!--
-**vivekmishra5699/vivekmishra5699** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🌱 **Let's Connect!**
+### Hi there, I'm [Your Name] 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Computer Science Enthusiast | Full-Stack Developer | AI & 3D Graphics Explorer**
+
+💡 Passionate about building **interactive 3D experiences**, AI-powered applications, and exploring **cryptography & cybersecurity**. Whether it's creating a **solar system simulation**, designing **procedural terrains**, or training an **AI chess engine**, I love pushing the limits of technology.
+
+---
+
+### 🚀 **What I'm Working On**
+- 🌍 **[3D Solar System Simulation](https://github.com/yourusername/solar-system)** (Three.js)
+- 🤖 **[AI Chess Model](https://github.com/yourusername/ai-chess)** (Deep Learning, Stockfish)
+- 🏎️ **[Driving Simulation](https://github.com/yourusername/driving-sim)** (Three.js & WebVR)
+- 🕹 **[2D Game Engine](https://github.com/yourusername/game-engine)** (Game Development)
+- 🔬 **[Space-Time Curvature Visualization](https://github.com/yourusername/space-sim)** (Three.js & Physics)
+
+---
+
+### 🛠 **Tech Stack & Tools**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Three.js](https://img.shields.io/badge/-Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+🛠 I code using **Visual Studio Code** on **Windows 10 & macOS**.
+
+---
+
+### 📊 **GitHub Stats**
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark)
+
+---
+
+### 🎮 **Fun Projects & Interests**
+- 🏗 Building **3D architectural visualization** websites
+- 🔍 Exploring **time machine search engines**
+- 🍽 Creating an **AI-powered nutrition tracker**
+- 🎮 Making **VR & interactive simulations**
+
+---
+
+### 🎵 **Now Playing**
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=novatorem)](https://open.spotify.com/user/your_spotify_id)
+
+---
+
+### 🌱 **Let's Connect!**
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vivek29403@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/vivek-mishra-03176932a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B4RgC%2BhjWRfy5LkmxK8eDUA%3D%3D))
+
+
