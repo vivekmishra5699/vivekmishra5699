@@ -34,7 +34,9 @@
 
 ---
 
-
+<p align="center">
+  <img src="./motion.svg" width="200">
+</p>
 
 ---
 
@@ -42,11 +44,4 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vivek29403@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivek-mishra-03176932a)
 
----
-
-### 🌀 Perpetual Motion Machine Animation
-
-<p align="center">
-  <img src="./motion.svg" width="200">
-</p>
 
