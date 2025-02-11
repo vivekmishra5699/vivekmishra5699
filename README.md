@@ -33,10 +33,11 @@
 - 🎮 Making **VR & interactive simulations**
 
 ---
-### 🌱 **Training On Going**
-<p align="center", font-size: 50px>
-  <img src="./motion.svg" width="200">
+### 🛠️ **Training On Going**
+<p align="center">
+  <img src="./your-animation.svg" width="600" height="400">
 </p>
+
 
 ---
 
