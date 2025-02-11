@@ -35,7 +35,7 @@
 ---
 ### 🛠️ **Training On Going**
 <p align="center">
-  <img src="./your-animation.svg" width="600" height="400">
+  <img src="./motion.svg" width="600" height="400">
 </p>
 
 
