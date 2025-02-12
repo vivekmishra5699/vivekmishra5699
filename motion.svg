@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" style="background:#011627;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200" style="background:#011627;">
   <style>
     @keyframes scroll { 100% { transform: translateY(-50%); } }
     @keyframes pulse { 50% { opacity: 0.5; } }
